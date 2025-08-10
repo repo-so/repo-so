@@ -45,6 +45,6 @@ Java         0 secs          ░░░░░░░░░░░░░░░░░
 </p>
 <br>
 
-<sup>*Code, innovate, repeat—never stop `learning`.*</sup>
+<sup>*Code, create, improve — learning through `execution`.*</sup>
 
 
