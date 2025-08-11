@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋,</h2>
 
-👨‍💻 *A tech junkie passionate about `learning` and `growth`.*
+👨‍💻 *Ambitious developer passionate about `learning` and `growth`.*
 
 ---
 
