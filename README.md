@@ -41,6 +41,10 @@ Java         0 secs          ░░░░░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/-Framer%20Motion-000000?style=flat-square&logo=Framer%20Motion&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+ 
   </p>
 </p>
 <br>
